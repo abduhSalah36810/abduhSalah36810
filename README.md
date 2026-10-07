@@ -45,26 +45,42 @@ An Arabic Islamic educational assistant built around retrieval-augmented questio
 
 - **AI applications** — LLMs, agents, and practical backend integrations
 - **Retrieval systems** — RAG, embeddings, semantic search, and reranking
+- **Data science & machine learning** — data analysis, visualization, and model development
 - **Software engineering** — maintainable architecture, APIs, and system analysis
 
 ## 🧰 Tech Stack
 
 <div align="center">
 
-| Area | Core tools |
+| Area | Tools & Technologies |
 |---|---|
-| 🤖 **AI & Machine Learning** | Python · PyTorch · Scikit-learn |
-| 🧠 **LLM Applications** | LangGraph · Hugging Face · Ollama |
-| 🔎 **Data & Retrieval** | Jupyter · Qdrant · MongoDB |
-| ⚙️ **Backend & APIs** | FastAPI · .NET · REST |
-| 🐳 **Engineering & DevOps** | Git · Linux · Docker |
-| 📱 **Application Development** | Flutter · Dart |
+| **Programming** | Python · C · C++ · Java · JavaScript · Dart |
+| **AI & Deep Learning** | PyTorch · TensorFlow · Scikit-learn · LLMs · NLP · RAG · AI Agents · LangGraph |
+| **Data Science** | NumPy · Pandas · Matplotlib · Jupyter |
+| **Databases & Search** | SQL · MongoDB · Qdrant · Redis · Vector Search |
+| **Backend & Applications** | FastAPI · .NET 8 · REST APIs · Flutter |
+| **Engineering & Tools** | Git · Linux · WSL · Docker · Docker Compose · Ollama · Postman · VS Code |
 
 </div>
 
+## 💼 Experience
+
+### Data Science Intern — Instant Software Solutions
+
+Contributing to data science work and building practical experience with data analysis and machine learning.
+
+### Software Engineering Instructor & Course Creator — AFAQ Academy
+
+Teaching software engineering and creating course materials to help learners build practical programming and software development skills.
+
+## 🎓 Education
+
+**B.Sc. in Computer Science**  
+GPA: **3.04**
+
 ## 👋 A Little About Me
 
-I have a Computer Science background and enjoy breaking complex systems into understandable parts, then turning what I learn into practical software.
+I enjoy breaking complex systems into understandable parts, then turning what I learn into practical software.
 
 ---
 
@@ -73,3 +89,6 @@ I have a Computer Science background and enjoy breaking complex systems into und
 *Learning continuously · Building thoughtfully · Improving with every project*
 
 </div>
+
+
+
