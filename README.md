@@ -2,14 +2,13 @@
 
 # Hi, I'm Abdurrahman 👋
 
-### AI Engineer · AI Agents · NLP · RAG
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=420&lines=AI+Engineer;Building+Intelligent+Systems;Exploring+AI+Agents+%26+RAG" alt="AI Engineer | Building Intelligent Systems | Exploring AI Agents and RAG" />
+
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdurrahman.muhammad.salah@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/abdosalah61038)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdurrahman-muhammad-213227393/)
 
 I build intelligent software systems by combining modern AI techniques with practical software engineering.
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)](https://www.langchain.com/langgraph)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
 </div>
 
@@ -48,16 +47,20 @@ An Arabic Islamic educational assistant built around retrieval-augmented questio
 - **Retrieval systems** — RAG, embeddings, semantic search, and reranking
 - **Software engineering** — maintainable architecture, APIs, and system analysis
 
-## 🛠️ Toolbox
+## 🧰 Tech Stack
 
-| Area | Technologies |
+<div align="center">
+
+| Area | Core tools |
 |---|---|
-| **AI & ML** | Machine Learning, Deep Learning, NLP, LLMs, RAG, LangGraph, LoRA, QLoRA |
-| **Languages** | Python, C, C++, Java, JavaScript, Dart |
-| **Backend & Data** | FastAPI, .NET 8, REST APIs, SQL, SQLite, MongoDB, Qdrant, Redis |
-| **Engineering** | OOP, Data Structures & Algorithms, Design Patterns, Software Architecture, Git |
-| **Tools & Platforms** | Linux, WSL, Docker, Docker Compose, Ollama, Jupyter, Postman, VS Code |
-| **App Development** | Flutter, Cross-Platform Development |
+| 🤖 **AI & Machine Learning** | Python · PyTorch · Scikit-learn |
+| 🧠 **LLM Applications** | LangGraph · Hugging Face · Ollama |
+| 🔎 **Data & Retrieval** | Jupyter · Qdrant · MongoDB |
+| ⚙️ **Backend & APIs** | FastAPI · .NET · REST |
+| 🐳 **Engineering & DevOps** | Git · Linux · Docker |
+| 📱 **Application Development** | Flutter · Dart |
+
+</div>
 
 ## 👋 A Little About Me
 
