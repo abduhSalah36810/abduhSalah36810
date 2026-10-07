@@ -1,66 +1,72 @@
+<div align="center">
+
 # Hi, I'm Abdurrahman 👋
 
-I'm an **AI Engineer focused on building intelligent software systems**, with an interest in AI Agents, NLP, RAG, and Software Engineering.
+### AI Engineer · AI Agents · NLP · RAG
 
-## What I Do
+I build intelligent software systems by combining modern AI techniques with practical software engineering.
 
-* Build AI-powered applications using **LLMs and AI Agents**.
-* Design **RAG systems** for knowledge-intensive applications.
-* Work with **NLP, embeddings, information retrieval, and reranking**.
-* Apply **Software Engineering principles** to build maintainable AI systems.
-* Develop backend services and integrate AI components into real-world applications.
-* Analyze software systems from both **AI and engineering perspectives**.
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)](https://www.langchain.com/langgraph)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 
-## Tech Stack
+</div>
 
-### Programming
+---
 
-Python · C · C++ · Java · JavaScript · Dart
+## 🚀 Featured Projects
 
-### AI & Machine Learning
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Machine Learning · Deep Learning · NLP · LLMs · RAG · AI Agents · LangGraph · Embeddings · Semantic Search · Information Retrieval · Reranking · Fine-Tuning · LoRA · QLoRA
+### 🤖 [Software Engineering Agent](https://github.com/abduhSalah36810/software-engineering-agent)
 
-### Backend & APIs
+An AI-powered assistant designed to explore software repositories, investigate engineering questions, and support code changes and validation.
 
-FastAPI · .NET 8 · REST APIs · API Design · Authentication · Authorization
+**Focus**  
+`AI Agents` `LangGraph` `Repository Analysis`
 
-### Databases & Data
+</td>
+<td width="50%" valign="top">
 
-SQL · SQLite · MongoDB · Qdrant · Redis · Vector Databases · Data Modeling
+### 🕌 [ZAD Islamic AI](https://github.com/abduhSalah36810/Zad-Islamic-AI)
 
-### Software Engineering
+An Arabic Islamic educational assistant built around retrieval-augmented question answering, semantic retrieval, and reranking.
 
-Object-Oriented Programming · Data Structures & Algorithms · Design Patterns · Software Architecture · System Analysis · Git · API Integration
+**Focus**  
+`Arabic NLP` `RAG` `Information Retrieval`
 
-### DevOps & Infrastructure
+</td>
+</tr>
+</table>
 
-Linux · WSL · Docker · Docker Compose · CI/CD Fundamentals · Cloud Services
+## 🧠 What I Work On
 
-### Application Development
+- **AI applications** — LLMs, agents, and practical backend integrations
+- **Retrieval systems** — RAG, embeddings, semantic search, and reranking
+- **Software engineering** — maintainable architecture, APIs, and system analysis
 
-Flutter · Cross-Platform Development
+## 🛠️ Toolbox
 
-### Tools
+| Area | Technologies |
+|---|---|
+| **AI & ML** | Machine Learning, Deep Learning, NLP, LLMs, RAG, LangGraph, LoRA, QLoRA |
+| **Languages** | Python, C, C++, Java, JavaScript, Dart |
+| **Backend & Data** | FastAPI, .NET 8, REST APIs, SQL, SQLite, MongoDB, Qdrant, Redis |
+| **Engineering** | OOP, Data Structures & Algorithms, Design Patterns, Software Architecture, Git |
+| **Tools & Platforms** | Linux, WSL, Docker, Docker Compose, Ollama, Jupyter, Postman, VS Code |
+| **App Development** | Flutter, Cross-Platform Development |
 
-GitHub · Ollama · Jupyter · Postman · VS Code
+## 👋 A Little About Me
 
-## Featured Projects
+I have a Computer Science background and enjoy breaking complex systems into understandable parts, then turning what I learn into practical software.
 
-### 🚀 Software Engineering Agent
+---
 
-An AI-powered software engineering assistant designed to understand and analyze software repositories, investigate engineering problems, and assist with code changes and validation.
+<div align="center">
 
-**Focus:** AI Agents · LangGraph · Software Engineering · Repository Analysis
+*Learning continuously · Building thoughtfully · Improving with every project*
 
-### 🕌 ZAD Islamic AI
-
-An Arabic Islamic educational assistant built using Retrieval-Augmented Generation (RAG), semantic retrieval, reranking, and LLM-based question answering.
-
-**Focus:** NLP · RAG · Information Retrieval · LLM Applications
-
-## Education & Background
-
-Computer Science graduate with a strong interest in **Artificial Intelligence, Natural Language Processing, and Software Engineering**.
-
-I enjoy understanding how systems work, breaking complex problems into smaller components, and turning ideas into practical software.
+</div>
